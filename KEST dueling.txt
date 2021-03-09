@@ -1,3 +1,5 @@
+//This is just 45rfew's dueling mod
+
 let strafe = false;
 //Set strafe to true if you want strafe and false if not
 const alien_array = [
